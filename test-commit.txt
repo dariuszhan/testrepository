@@ -1,0 +1,6 @@
+to
+jest
+testowy
+plik
+do
+badañ
